@@ -1,0 +1,2 @@
+# No external dependencies - only Python standard library
+# Python >= 3.10 recommended for modern typing features

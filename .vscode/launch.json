@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Current Exercise",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/${relativeFileDirname}/input.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
